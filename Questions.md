@@ -1,4 +1,4 @@
-#Questions
+Questions
 Commonly Asked Interview Questions
 
 Array
